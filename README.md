@@ -1,2 +1,2 @@
-# EA_Automation
+# Test_Automation
 description goes here
